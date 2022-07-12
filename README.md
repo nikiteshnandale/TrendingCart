@@ -16,6 +16,17 @@ This is an e-commerce app where you can buy latest electronic gadgets which are 
 - Users of this app will not feel any need to search for trending products on Google. It will save their time.
 
 
+
+## Tech-Stack
+
+
+<a href="https://dart.dev/" title="Dart"><img src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg" alt="Dart" width="100" height="100"></a>
+<a href="https://flutter.dev/?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbfSKaydGl1kSYZmf58oKXi-Js2nXW3QreLKB5hA1mgRD0Kk6dxah2gaAh9JEALw_wcB&gclsrc=aw.ds" title="Flutter"><img src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg" alt="Flutter" width="100" height="100"></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" alt="Firebase" width="100" height="100"></a>
+
+
+
+
 ## How to use?
 - Just install the app on the device.
 - Now create the account, if you are using it for first time.
